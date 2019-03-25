@@ -6,7 +6,7 @@
 
 ### Links and Resources
 [![Build Status](https://www.travis-ci.com/alex-white-401-advanced-javascript/lab-05.svg?branch=master)](https://www.travis-ci.com/alex-white-401-advanced-javascript/lab-05)
-* [PR](https://github.com/alex-white-401-advanced-javascript/Lab-05-Linked-List)
+* [PR](https://github.com/alex-white-401-advanced-javascript/Lab-05-Linked-List/pull/1)
 * [travis](https://travis-ci.com/organizations/401d29-advanced-javascript/repositories)
 
 #### Documentation
