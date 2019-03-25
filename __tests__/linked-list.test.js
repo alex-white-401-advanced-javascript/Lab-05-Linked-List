@@ -1,7 +1,6 @@
 'use strict';
 
-// import * as myModule from '../linkedList/linked-list.js';
-// import {Node, LinkedList} from '../linkedList/linked-list.js';
+
 const ll = require('../linkedList/linked-list.js');
 
 // describe('linkedList tests', () => {

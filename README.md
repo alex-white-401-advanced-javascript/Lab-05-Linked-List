@@ -1,28 +1,43 @@
-##Lab-05-Linked-Lists
+![CF](http://i.imgur.com/7v5ASc8.png) PROJECT
+=================================================
+## Linked Lists
 
-##Links
-github -- https://github.com/401d29-advanced-javascript/Lab-05-Linked-List
+### Authors: Aaron Bruce & Alexander White
 
-travis -- https://travis-ci.com/organizations/401d29-advanced-javascript/repositories
+### Links and Resources
+[![Build Status](https://www.travis-ci.com/alex-white-401-advanced-javascript/lab-05.svg?branch=master)](https://www.travis-ci.com/alex-white-401-advanced-javascript/lab-05)
+* [PR](https://github.com/alex-white-401-advanced-javascript/Lab-05-Linked-List)
+* [travis](https://travis-ci.com/organizations/401d29-advanced-javascript/repositories)
 
-##Documentation
-jsdocs --
+#### Documentation
+* [jsdoc]()
 
-##Modules
--- printNode(value) -> number of nodes as a string
--- prepend(value) -> new head value in linked list
--- includes(value) -> any value in a node that matches the value
--- print() -> list of all values as a string
+### Modules
+#### `linked-list`
+##### Exported Values and Methods
 
-##Setup
-~$ npm init
-~$ npm install -D jest eslint
+##### `printNode(value) -> # of nodes as a string`
 
-##Running App
-~$ node linkedList/linked-list.js
+##### `prepend(value) -> new head value in linked list`
 
-##Running Tests
-~$ jest
+##### `includes(value) -> any value in a node that matches the value`
 
-#UML
-??
+##### `print() -> list all of the value as a string`
+
+
+### Setup
+* `npm i` - install all dependencies lsited in `package.json`
+
+
+#### Running the app
+At the root folder, in CLI, enter the command below.
+* `node linkedList/linked-list.js`
+  
+#### Tests
+* How do you run tests?
+  * `npm run test`
+  * `npm run lint`
+* What assertions were made? 
+##### Only a proof of life tests exists.
+* What assertions need to be / should be made?
+##### 
